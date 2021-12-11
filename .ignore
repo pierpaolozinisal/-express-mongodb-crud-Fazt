@@ -1,0 +1,11 @@
+# Enviroment variables
+
+.env
+
+# node modules
+
+node_modules
+
+# Distribition program
+
+dist
